@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Md Dilshad Alam
 
-<!--
-**md-dilshad-alam/md-dilshad-alam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI Engineer | Generative AI | Python | FastAPI | LangChain | LangGraph | RAG | LLM
 
-Here are some ideas to get you started:
+🎓 BCA Graduate from Guru Kashi University (CGPA: 8.5)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Passionate about building AI-powered applications using Large Language Models, Agentic AI, and Retrieval-Augmented Generation.
+
+### 🚀 Tech Stack
+
+- Python
+- FastAPI
+- LangChain
+- LangGraph
+- Generative AI
+- Large Language Models (LLMs)
+- RAG
+- ChromaDB
+- SQL
+- React.js
+- Git & GitHub
+
+### 📌 Featured Projects
+
+- 🤖 AI SQL Agent using LangChain & Gemini API
+- 💬 AI Chatbot using FastAPI, LangChain & Gemini
+- 🏢 ERP Management System
+- 🌐 Social Media App (React)
+
+### 📫 Connect with me
+
+- LinkedIn: https://linkedin.com/in/md-dilshad-alam01
+- Email: dilshadalam0253@gmail.com
