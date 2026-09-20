@@ -1,113 +1,118 @@
-# Hi, I'm Md Dilshad Alam
+# 👋 Hi, I'm Md Dilshad Alam
 
-## AI Engineer | Generative AI | Software Engineer | Python Developer | React.js Developer
+### 🤖 AI Engineer | Generative AI | Python | RAG | LLM | FastAPI
 
-BCA Graduate from Guru Kashi University with hands-on experience building AI-powered applications, backend systems, and modern web applications.
+BCA Graduate with hands-on experience building **AI-powered applications, RAG systems, backend APIs, and modern web applications.**
 
-I work with Python, FastAPI, Generative AI, LLMs, RAG, LangChain, LangGraph, React.js, SQL, and modern software development tools.
+I enjoy turning real-world problems into practical software using **Python, Generative AI, LLMs, and modern web technologies.**
 
-### What I Build
+---
 
-- Generative AI and LLM applications
-- Retrieval-Augmented Generation (RAG) systems
-- AI-powered chatbots and document assistants
-- Natural language to SQL applications
-- REST APIs and backend services
-- React.js web applications
-- Full-stack software applications
+## 🚀 What I Build
 
-### Technical Skills
+🤖 **Generative AI & LLM Applications**  
+📚 **RAG & Document Q&A Systems**  
+💬 **AI Chatbots & AI Agents**  
+🗄️ **Natural Language → SQL Applications**  
+⚡ **FastAPI & REST APIs**  
+🌐 **React.js Web Applications**  
+🔧 **Full-Stack Applications**
 
-**AI & Generative AI**
-- Generative AI
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- LangChain
-- LangGraph
-- AI Agents
-- Prompt Engineering
-- Vector Embeddings
-- Semantic Search
-- ChromaDB
-- Gemini API
+---
 
-**Backend & Python**
-- Python
-- FastAPI
-- REST APIs
-- SQL
-- SQLite
-- MySQL
-- SQLAlchemy
+## 🛠️ Tech Stack
 
-**Frontend & Full Stack**
-- React.js
-- Next.js
-- JavaScript
-- HTML
-- CSS
+### 🤖 AI & Generative AI
 
-**Tools & Development**
-- Git
-- GitHub
-- Postman
-- VS Code
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logo=graphql&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Generative_AI-purple)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?logo=google&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_DB-orange)
 
-### Featured Projects
+`LLMs` `AI Agents` `Prompt Engineering` `Vector Embeddings` `Semantic Search`
 
-**RAG Document Chatbot**
-- Document-based AI question-answering application
-- Built with Python, FastAPI, LangChain, Gemini API, ChromaDB, and React.js
-- Supports document processing, embeddings, semantic search, and AI-powered responses
+### ⚡ Backend
 
-**3GPP Standards RAG Chatbot**
-- Domain-specific RAG application for querying 3GPP telecom standards
-- Built with Python, FastAPI, LangChain, ChromaDB, and React.js
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 
-**SQL AI Agent**
-- Natural language to SQL application
-- Uses LangChain and Gemini API to generate SQL queries and interact with databases
+`REST APIs` `SQLite` `MySQL` `SQLAlchemy`
 
-**AI Chatbot**
-- AI chatbot application built with FastAPI, LangChain, and Gemini
-- Focused on backend APIs and LLM-powered conversations
+### 🌐 Frontend
 
-**Portfolio**
-- Personal developer portfolio showcasing AI, Generative AI, software development, and web projects
-- Built with React.js
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 
-**Social Media App**
-- React.js frontend application
-- Includes post creation, likes, comments, and responsive user interface
+### 🔧 Tools
 
-### Professional Experience
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
-**AI Engineering Intern — SRV Electricals**
-- Worked on AI chatbots, RAG pipelines, SQL AI agents, backend APIs, vector embeddings, and semantic search
-- Built AI-powered applications using Python, FastAPI, LangChain, and Gemini
+---
 
-**Software Engineer Intern — Appexigo Technologies**
-- Worked on ERP applications using Next.js, React.js, NestJS, GraphQL, Prisma, and MySQL
+## ⭐ Featured Projects
 
-**Python Development Intern — Cognifyz IT Solutions Pvt. Ltd.**
-- Developed Python applications and programming tasks using Python standard libraries, regular expressions, randomization, collections, and file handling
+### 📄 RAG Document Chatbot
+AI-powered document Q&A system using **RAG, FastAPI, LangChain, Gemini, ChromaDB and React.js.**
 
-### Currently Seeking
+🔗 [View Project](https://github.com/md-dilshad-alam/RAG-Document-Chatbot-backend)
 
-Open to opportunities in:
+### 📡 3GPP Standards RAG Chatbot
+Domain-specific RAG chatbot for querying **3GPP telecom standards**.
 
-- AI Engineer
-- Generative AI Engineer
-- LLM / AI Application Developer
-- Software Engineer
-- Python Developer
-- Backend Developer
-- React.js Developer
-- Full Stack Developer
+🔗 [View Project](https://github.com/md-dilshad-alam/3gpp-standards-rag-chatbot)
 
-### Connect With Me
+### 🗄️ SQL AI Agent
+Natural-language-to-SQL application using **LangChain, Gemini, SQLAlchemy and SQLite.**
 
-- LinkedIn: https://linkedin.com/in/md-dilshad-alam01
-- Email: dilshadalam0253@gmail.com
-- Portfolio: https://dilshad-ai-portfolio.netlify.app/
-- GitHub: https://github.com/md-dilshad-alam
+🔗 [View Project](https://github.com/md-dilshad-alam/SQL-AI-Agent)
+
+### 💻 Social Media App
+Responsive React.js application with **posts, likes, comments and interactive UI.**
+
+🔗 [View Project](https://github.com/md-dilshad-alam/social-media-app)
+
+---
+
+## 💼 Experience
+
+**AI Engineering Intern — SRV Electricals**  
+Worked on AI chatbots, RAG pipelines, SQL AI agents, backend APIs and semantic search.
+
+**Software Engineer Intern — Appexigo Technologies**  
+Worked on ERP applications using React.js, Next.js, NestJS, GraphQL, Prisma and MySQL.
+
+**Python Development Intern — Cognifyz IT Solutions Pvt. Ltd.**  
+Developed Python applications using standard libraries, regex, collections and file handling.
+
+---
+
+## 🎯 Currently Seeking
+
+🔹 AI Engineer  
+🔹 Generative AI Engineer  
+🔹 LLM / AI Application Developer  
+🔹 Python Developer  
+🔹 Backend Developer  
+🔹 Software Engineer
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md_Dilshad_Alam-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-dilshad-alam01)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-000000?logo=googlechrome&logoColor=white)](https://dilshad-ai-portfolio.netlify.app/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-md--dilshad--alam-181717?logo=github&logoColor=white)](https://github.com/md-dilshad-alam)
+
+📧 **Email:** dilshadalam0253@gmail.com
+
+---
+
+### 🚀 Building AI applications that solve real-world problems.
