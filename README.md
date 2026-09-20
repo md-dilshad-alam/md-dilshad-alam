@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Md Dilshad Alam
 
-### 🤖 AI Engineer | Generative AI | Python | RAG | LLM | FastAPI
+### 🤖 AI Engineer | Generative AI | Software Engineer | Python Developer | React.js Developer
 
 BCA Graduate with hands-on experience building **AI-powered applications, RAG systems, backend APIs, and modern web applications.**
 
