@@ -1,22 +1,26 @@
 # 👋 Hi, I'm Md Dilshad Alam
 
-### 🤖 AI Engineer | Generative AI | Software Engineer | Python Developer | React.js Developer
+### AI Engineer | Generative AI | RAG | LLM | Python | FastAPI
 
-BCA Graduate with hands-on experience building **AI-powered applications, RAG systems, backend APIs, and modern web applications.**
+BCA Computer Science graduate with hands-on experience building
+AI-powered applications, RAG systems, AI agents, backend APIs,
+and modern web applications.
 
-I enjoy turning real-world problems into practical software using **Python, Generative AI, LLMs, and modern web technologies.**
+I enjoy turning real-world problems into practical software using
+Python, Generative AI, LLMs, and modern web technologies.
 
 ---
 
 ## 🚀 What I Build
 
-🤖 **Generative AI & LLM Applications**  
-📚 **RAG & Document Q&A Systems**  
-💬 **AI Chatbots & AI Agents**  
-🗄️ **Natural Language → SQL Applications**  
-⚡ **FastAPI & REST APIs**  
-🌐 **React.js Web Applications**  
-🔧 **Full-Stack Applications**
+- Generative AI & LLM Applications
+- RAG & Document Question-Answering Systems
+- AI Chatbots & AI Agents
+- AI-powered Web Search Applications
+- Natural Language → SQL Applications
+- FastAPI & REST APIs
+- React.js Web Applications
+- Full-Stack Applications
 
 ---
 
@@ -29,9 +33,11 @@ I enjoy turning real-world problems into practical software using **Python, Gene
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logo=graphql&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-Generative_AI-purple)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?logo=groq&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_DB-orange)
 
-`LLMs` `AI Agents` `Prompt Engineering` `Vector Embeddings` `Semantic Search`
+`LLMs` `AI Agents` `Prompt Engineering` `Vector Embeddings`
+`Semantic Search` `Document Processing`
 
 ### ⚡ Backend
 
@@ -58,48 +64,160 @@ I enjoy turning real-world problems into practical software using **Python, Gene
 ## ⭐ Featured Projects
 
 ### 📄 RAG Document Chatbot
-AI-powered document Q&A system using **RAG, FastAPI, LangChain, Gemini, ChromaDB and React.js.**
 
-🔗 [View Project](https://github.com/md-dilshad-alam/RAG-Document-Chatbot-backend)
+AI-powered document Q&A system using RAG, FastAPI, LangChain,
+Gemini, ChromaDB, embeddings, semantic search, and React.js.
+
+**Key Features**
+- PDF document processing
+- Text chunking
+- Vector embeddings
+- Semantic retrieval
+- Context-aware LLM responses
+- FastAPI backend
+- React frontend
+
+🔗 [GitHub Repository](https://github.com/md-dilshad-alam/RAG-Document-Chatbot-backend)
+
+---
 
 ### 📡 3GPP Standards RAG Chatbot
-Domain-specific RAG chatbot for querying **3GPP telecom standards**.
 
-🔗 [View Project](https://github.com/md-dilshad-alam/3gpp-standards-rag-chatbot)
+Domain-specific RAG chatbot designed to answer questions from
+3GPP telecom standards.
+
+**Key Features**
+- Standards document ingestion
+- Document chunking
+- Vector search
+- Semantic retrieval
+- Source-aware answers
+- FastAPI backend
+- React frontend
+
+🔗 [GitHub Repository](https://github.com/md-dilshad-alam/3gpp-standards-rag-chatbot)
+
+---
+
+### 🌐 AI Web Search Agent
+
+AI-powered web search agent using LangChain, Groq, and Google
+Serper to retrieve current information from the web.
+
+**Key Features**
+- AI-powered web search
+- Tool-based agent workflow
+- Groq LLM integration
+- Google Search integration
+- FastAPI backend
+- React/Vite frontend
+- Markdown response rendering
+
+🔗 [GitHub Repository](https://github.com/md-dilshad-alam/AI-Web-Search-Agent)
+
+🔗 [Live Demo](https://ai-web-search-agent-7yb2gla65-md-dilshad-alam.vercel.app/)
+
+---
 
 ### 🗄️ SQL AI Agent
-Natural-language-to-SQL application using **LangChain, Gemini, SQLAlchemy and SQLite.**
 
-🔗 [View Project](https://github.com/md-dilshad-alam/SQL-AI-Agent)
+Natural-language-to-SQL application that allows users to
+interact with databases using natural language.
+
+**Key Features**
+- Natural language database queries
+- SQL generation
+- AI agent workflow
+- Database interaction
+- Python-based backend
+
+🔗 [GitHub Repository](https://github.com/md-dilshad-alam/SQL-AI-Agent)
+
+---
+
+### 💬 AI Chatbot
+
+AI-powered conversational application using modern LLM APIs
+and a web-based interface.
+
+🔗 [GitHub Repository](https://github.com/md-dilshad-alam/ai-chatbot)
+
+---
 
 ### 💻 Social Media App
-Responsive React.js application with **posts, likes, comments and interactive UI.**
 
-🔗 [View Project](https://github.com/md-dilshad-alam/social-media-app)
+Responsive React.js application with posts, likes, comments,
+and interactive user interface.
+
+🔗 [GitHub Repository](https://github.com/md-dilshad-alam/social-media-app)
 
 ---
 
 ## 💼 Experience
 
-**AI Engineering Intern — SRV Electricals**  
-Worked on AI chatbots, RAG pipelines, SQL AI agents, backend APIs and semantic search.
+### AI Engineering Intern — SRV Electricals
 
-**Software Engineer Intern — Appexigo Technologies**  
-Worked on ERP applications using React.js, Next.js, NestJS, GraphQL, Prisma and MySQL.
+Worked on AI-powered applications including document chatbots,
+RAG pipelines, SQL AI agents, backend APIs, semantic search,
+and LLM integrations.
 
-**Python Development Intern — Cognifyz IT Solutions Pvt. Ltd.**  
-Developed Python applications using standard libraries, regex, collections and file handling.
+**Technologies:**
+`Python` `FastAPI` `LangChain` `RAG` `Gemini` `SQL` `React`
+
+---
+
+### Software Engineer Intern — Appexigo Technologies
+
+Worked on ERP applications and backend/frontend development
+using modern JavaScript technologies.
+
+**Technologies:**
+`React.js` `Next.js` `NestJS` `GraphQL` `Prisma` `MySQL`
+
+---
+
+### Python Development Intern — Cognifyz IT Solutions
+
+Developed Python applications using standard libraries,
+regular expressions, collections, and file handling.
+
+**Technologies:**
+`Python` `Regex` `Collections` `File Handling`
+
+---
+
+## 🎓 Education
+
+### Bachelor of Computer Applications (BCA)
+
+**Guru Kashi University**
+
+CGPA: **8.50 / 10**
+
+2023 – 2026
+
+---
+
+## 📜 Certifications
+
+- Introduction to Operating Systems — NPTEL / IIT Madras
+- Responsive Web Design — freeCodeCamp
+- Basic Python Programming and its Application in Finance — SWAYAM
+- Business Plan Competition — Guru Kashi University
 
 ---
 
 ## 🎯 Currently Seeking
 
-🔹 AI Engineer  
-🔹 Generative AI Engineer  
-🔹 LLM / AI Application Developer  
-🔹 Python Developer  
-🔹 Backend Developer  
-🔹 Software Engineer
+- AI Engineer
+- Generative AI Engineer
+- LLM / AI Application Developer
+- Python Developer
+- Backend Developer
+- Software Engineer
+
+Open to opportunities involving AI applications, RAG,
+LLMs, AI agents, Python, FastAPI, and backend development.
 
 ---
 
@@ -115,4 +233,7 @@ Developed Python applications using standard libraries, regex, collections and f
 
 ---
 
-### 🚀 Building AI applications that solve real-world problems.
+## 🚀 Building AI applications that solve real-world problems.
+
+I am continuously learning and building with Generative AI,
+RAG, LLMs, AI agents, Python, and modern backend technologies.
