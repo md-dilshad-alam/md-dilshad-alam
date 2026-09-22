@@ -42,7 +42,7 @@ RAG systems, AI agents, backend APIs, and modern web applications.**
 AI-powered document Q&A using **RAG, Gemini, ChromaDB, FastAPI & React**.
 
 🔗 [GitHub](https://github.com/md-dilshad-alam/RAG-Document-Chatbot-backend)
-
+🔗 [Live Demo](https://rag-document-chatbot-backend.vercel.app/)                  
 ### 📡 3GPP Standards RAG Chatbot
 RAG chatbot for querying **3GPP telecom standards**.
 
